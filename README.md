@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO AND TITLE-->
 <div align='center'>
   <img
-    src="https://cubos.academy/assets/images/logo-main-clear.png"
+    src="https://cubos.academy/assets/images/logo-main.png"
     alt="Cubos_Academy"
     width="300px"
   />
