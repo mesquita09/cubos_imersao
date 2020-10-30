@@ -148,8 +148,39 @@ ol {
   margin-top: 8px;
   width: 20%;
   height: 4px;
-  background-color: #4200ff;
+  background-color: rgba(149, 128, 255);
 }
 .incompleto {
   opacity: 0.2;
+}
+
+.projetos h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+.projetos .card img {
+  width: 100%;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  border-radius: 10px;
+}
+.projetos .card p {
+  font-size: 14px;
+  text-align: justify;
+}
+.projetos .card a {
+  color: #fff;
+  text-decoration: none;
+  background-color: #ff80bf;
+  padding: 12px;
+  border-radius: 10px;
+}
+
+footer {
+  background-color: #282a36;
+  color: rgba(255, 255, 255, 0.8);
+  padding: 57.6px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
 }
