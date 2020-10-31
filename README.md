@@ -17,10 +17,6 @@
     <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/d20792ff896d4ab2981307d37e88c19f">
   </a>
 
-  <a href="https://travis-ci.org/dbader/node-datadog-metrics">
-    <img alt="Codacy grade" src="https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square">
-  </a>
-
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mesquita09/cubos_imersao.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mesquita09/cubos_imersao.svg">
